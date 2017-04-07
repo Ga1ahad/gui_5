@@ -1,8 +1,3 @@
-/**
- *
- *  @author Nguyen Adam S15264
- *
- */
 
 package ex2;
 import java.lang.reflect.Method;
